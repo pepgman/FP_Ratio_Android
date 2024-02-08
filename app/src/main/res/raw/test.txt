@@ -1,0 +1,4 @@
+calabaza,100,45,33
+pepino,230,45,67
+patata,420,55,99
+Leche de soja,47,191,3.2

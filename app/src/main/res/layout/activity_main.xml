@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/tilUsername1"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="334dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:hint="INTRODUZCA SU PESO, POR FAVOR(Kg)"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <EditText
+            android:id="@+id/input_peso"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:digits="0123456789. Kg"
+            android:fontFamily="@font/allerta"
+            android:imeActionLabel="Avanza"
+            android:imeOptions="actionDone"
+            android:inputType="number"
+            android:maxLength="5"
+            android:textAlignment="center"
+            android:textColorHint="@android:color/holo_green_dark"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:id="@+id/text_alimentos"
+        android:layout_width="214dp"
+        android:layout_height="26dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/allerta"
+        android:paddingStart="@dimen/normal_padding"
+        android:paddingTop="0dp"
+        android:paddingEnd="@dimen/normal_padding"
+        android:paddingBottom="0dp"
+        android:text="@string/text_alimentos"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_resumen" />
+
+    <Spinner
+        android:id="@+id/spinner_alimentos"
+        android:layout_width="191dp"
+        android:layout_height="24dp"
+        android:gravity="center_vertical"
+        android:spinnerMode="dialog"
+        android:textAlignment="gravity"
+        app:layout_constraintEnd_toEndOf="@+id/text_alimentos"
+        app:layout_constraintTop_toBottomOf="@+id/text_alimentos" />
+
+    <Button
+        android:id="@+id/añadir_button"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@color/my_blue"
+        android:fontFamily="@font/allerta"
+        android:text="@string/añadir_button"
+        android:textSize="12sp"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toEndOf="@+id/spinner_alimentos"
+        app:layout_constraintTop_toBottomOf="@+id/textFP" />
+
+    <TextView
+        android:id="@+id/text_resumen"
+        android:layout_width="250dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:fadeScrollbars="false"
+        android:fontFamily="@font/allerta"
+        android:overScrollMode="always"
+        android:paddingBottom="@dimen/normal_padding"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:scrollbarStyle="insideInset"
+        android:scrollbars="vertical"
+        android:text="@string/resumen_inicio"
+        android:textSize="12sp"
+        android:verticalScrollbarPosition="left"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tilUsername1" />
+
+    <TextView
+        android:id="@+id/textFosforo"
+        style="@style/whiteBox"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:background="@color/my_green_dark"
+        android:editable="false"
+        android:text="Fos"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@+id/textPotasio"
+        app:layout_constraintStart_toStartOf="@+id/textPotasio"
+        app:layout_constraintTop_toTopOf="@+id/text_resumen" />
+
+    <TextView
+        android:id="@+id/textPotasio"
+        style="@style/whiteBox"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="4dp"
+        android:background="@color/my_green_dark"
+        android:text="Pot"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@+id/textProteina"
+        app:layout_constraintStart_toEndOf="@+id/text_resumen"
+        app:layout_constraintTop_toBottomOf="@+id/textFosforo" />
+
+    <TextView
+        android:id="@+id/textProteina"
+        style="@style/whiteBox"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:background="@color/my_green_dark"
+        android:text="Prot"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@+id/textFP"
+        app:layout_constraintStart_toStartOf="@+id/textPotasio"
+        app:layout_constraintTop_toBottomOf="@+id/textPotasio" />
+
+    <Button
+        android:id="@+id/quitar_button"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:backgroundTint="@color/my_red"
+        android:fontFamily="@font/allerta"
+        android:paddingTop="0dp"
+        android:text="@string/eliminar_button"
+        android:textSize="12sp"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toEndOf="@+id/spinner_alimentos"
+        app:layout_constraintTop_toBottomOf="@+id/añadir_button" />
+
+    <TextView
+        android:id="@+id/textFP"
+        style="@style/whiteBox"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:background="@android:color/holo_orange_dark"
+        android:text="Ratio FP"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@+id/spinner_alimentos"
+        app:layout_constraintStart_toStartOf="@+id/textPotasio"
+        app:layout_constraintTop_toBottomOf="@+id/textProteina" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/tilUsername2"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="203dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:hint="gr de alimento"
+        app:layout_constraintStart_toStartOf="@+id/text_alimentos"
+        app:layout_constraintTop_toBottomOf="@+id/spinner_alimentos">
+
+        <EditText
+            android:id="@+id/input_cantidad"
+            android:layout_width="190dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/allerta"
+            android:inputType="number"
+            android:paddingTop="0dp"
+            android:paddingBottom="0sp"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

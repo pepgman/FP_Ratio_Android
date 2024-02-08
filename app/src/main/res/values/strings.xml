@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FP_Ratio</string>
+    <string name="selected_item">Alimento seleccionado: </string>
+    <string name="no_input_peso">Debe introducir el PESO en primer lugar.</string>
+    <string name="no_input_cantidad">La CANTIDAD no puede ser 0.</string>
+    <string name="no_press_Fin">Intoduzca Peso y aprete tecla Fin</string>
+    <string name="text_alimentos">Selecciona alimento:</string>
+    <string name="cantidad_alimento">Cantidad (gr):</string>
+    <string name="añadir_button">Añadir</string>
+    <string name="eliminar_button">Eliminar</string>
+    <string name="resumen_inicio">Alimentos seleccionados:</string>
+    <string name="no_hay_alimentos">La lista de alimentos está vacía</string>
+    <string name="title_text">
+        La aplicacion FP_Ratio está orientada a ECR (Enfermos Crónicos del Riñón)"\n"
+        Calcula la suma agregada de los minerales de Fósforo y Potasio, así como de las proteinas totales
+        a partir de una lista de alimentos simples o elaborados."\n"
+        Si la agregación por cada componente supera el límite diario, cambia su color a rojo."\n"
+        También calcula el ratio Fósforo / Proteinas que debería ser inferior a 16.
+        Hay que introducir primero el peso corporal. Luego seleccionar el alimento de la lista desplegable
+        y añadir la cantidad en gr del mismo."\n"
+        Apreta el botón EMPEZAR.
+    </string>
+</resources>

@@ -1,0 +1,172 @@
+Abadejo;250;320;17.4
+Ala de pollo con piel cruda;132;156;18.33
+Albóndigas en conserva;243.2;614.3;6.8
+Almeja;130;314;10.7
+Almendra;524.88;767.25;19.13
+Almidón de maíz;13;3;0.26
+Anguila;310;270;19.97
+Angula;170;270;16.3
+Arroz blanco;100;110;7
+Arroz integral;303;223;7.5
+Atún;230;400;22
+Avellana;333;636;12.01
+Bacalao;180;340;18.2
+Berberecho;130;314;10.7
+Bollería (genérico);91;78;7
+Bonito;254;252;21
+Bonito enlatado en aceite;200;267;26.23
+Boquerón;182;331;17.6
+Caballa;244;386;18.68
+Calamar;158.5;316.33;14
+Camarón;180;330;17.6
+Cangrejo;160;270;19.5
+Cava;7;48;0.2
+Cazón;210;160;18.7
+Cazón en adobe;210;385;18
+Centollo;312;270;20.1
+Cereales a base de trigo y chocolate;100;400;8
+Cereales de desayuno a base de maíz y trigo;170;0;6
+Cereales de desayuno a base de muesli;288.7;0;10.3
+Cereales de desayuno a base de trigo avena maíz miel y nueces;360.7;335;11
+Cerveza con alcohol;55;37;0.5
+Cerveza oscura 8-9º;33.5;92;0.6
+Cerveza sin alcohol;20;40;0.38
+Chipirón;190;280;16.25
+Chocolate blanco;230;350;8
+Chocolate con leche;261;465;9.19
+Chocolate con leche y almendras;246;441;8.6
+Chocolate negro;181.33;359.67;4.7
+Chocolate negro con almendras;219;460;8.2
+Chorizo;270;180;27
+Chuleta;166;285;19
+Chuleta de cordero;170;230;15.4
+Chuletas de ternera;200;350;17
+Churro;108;146;4.6
+Clara de huevo de gallina;15;142;10.5
+Coca-Cola light;12;4;0
+Conejo de granja;258.53;403.77;20.7
+Congrio;202;340;19
+Coñac;0;2;0
+Costilla;170;320;15.6
+Croissant;95;136;7.5
+Croissant de chocolate;87;170;5.6
+Donut;81;102;6.1
+Donut de chocolate;107.3;103.4;3.7
+Dorada;180;300;17
+Ensaimada;79;84;5.7
+Ensalada de pasta con atún;11.7;650;26.7
+Ensaldilla rusa;6;261.8;4.84
+Galleta (genérico);124.42;169.75;6.76
+Galleta con chocolate tipo cookies;82;92;6.2
+Galletas integrales;133;200;10
+Galletas tipo María;90;110;7.08
+Gallo;260;250;15.8
+Garbanzos;310;1000;19.31
+Ginebra;0;0;0
+Guisantes;330;900;21.6
+Habas secas;590;1090;26.1
+Harina de trigo;120;135;10
+Hígado;358;325;21.1
+Hígado;350;330;21.4
+Huevo de gallina entero;200;130;12.5
+Jamón cocido;239;270;19
+Jamón ibérico de bellota;191;655;33.2
+Jamón serrano;167;250;28.8
+Jamón serrano ibérico;157.5;153.1;43.2
+Jamón serrano magro;190;0;28.6
+Judías blancas;426;1337;21.1
+Judías pintas;407;1406;23.58
+Judías verdes;44;280;2.3
+Jurel;157;420;15.4
+Ketchup;40;480;3.4
+Langostino;215;221;22.44
+Lasaña;93;159;6.3
+Leche de almendra;280;420;14.5
+Leche de cabra;103;185;3.4
+Leche de soja;47;191;3.2
+Leche de vaca desnatada;88;174;3.3
+Leche de vaca entera;92;157;3.06
+Leche de vaca semidesnatada;85;166;3.2
+Lenguado;260;230;16.5
+Lentejas;256.04;463.05;24.77
+Limonada;11;82;0.5
+Lomo de cerdo;151;212;18
+Lomo de ternera crudo con grasa separable;200;350;20.2
+Lomo embuchado;180;230;34
+Magdalena;231;88;6.1
+Masa de hojaldre cruda;57;66.5;4.85
+Mayonesa baja en calorías;1;10;1
+Mejillón;236;92;10.8
+Melocotón;12;194;1
+Melocotón en almíbar;7.5;103;0.38
+Mermelada de albaricoque y melocotón;0;77;0.32
+Merluza;142;294;11.93
+Mero;210;255;19.4
+Morcilla;80;210;19.5
+Nata líquida 18 % grasa;0;2.51;18
+Nuez;304;690;14
+Ostras;187.5;240;8.15
+Palmera;50;76;5
+Palometa;250;430;20
+Pan blanco de barra;90;120;8.3
+Pan tipo baguette;110;120;9.65
+Pan tipo hamburguesa;150;110;7.54
+Pasta alimenticia cruda;167;236;12.5
+Pasta alimenticia integral cruda;258;215;13.4
+Pastel de manzana;87;117;3.5
+Pato entero;200;280;19.7
+Pavo (muslo con piel crudo);211;201;18.9
+Pavo (pechuga con piel cruda);210;333;24.12
+Pechuga de pollo con piel cruda;196;255;23.1
+Perca;198;330;18.6
+Percebe;312;330;13.6
+Pescadilla congelada;190;270;11.75
+Pez espada;261;346;18
+Pipa de girasol;651;710;27
+Pizza precocinada;179;201;8.2
+Pulpo;170;230;17.9
+Queso blanco desnatado;134;86;12.39
+Queso Brie;303;119;17.2
+Queso Cheddar;470;100;26
+Queso curado genérico;470;82;35.77
+Queso Edam;462;0;20.7
+Queso fresco de Burgos;170;121;12.4
+Queso fresco de cabra;818;90;19.8
+Queso Manchego;520;100;28.77
+Queso Mozzarella;428;67;19.5
+Queso para untar;754;149;15.63
+Queso para untar bajo en calorías;150;190;14.2
+Rape;330;284;15.9
+Raya;155;250;20.56
+Refresco sabor naranja con gas traza;1;18;1
+Refresco sabor naranja sin gas;4;40;0.1
+Refresco tipo tónica traza;0;0;0
+Refrescos sabor cola (Coca-Cola);15;1;0
+Requesón;150;88;12.31
+Rodaballo;192;290;16.1
+Ron;5;2;0
+Salchicha tipo Frankfurt;173;170;12.7
+Salmón;250;310;18.4
+Salsa barbacoa;20;170;1.8
+Salsa bechamel;110;160;4.1
+Salsa boloñesa;79;310;8
+Sardinas;475;24;18.1
+Sémola de trigo;143;193;12.6
+Sidra;3;72;3
+Soja seca;660;1730;35.9
+Solomillo;230;420;21
+Solomillo sin grasa de ternera;210;328;20.19
+Sopa de sobre sin reconstituir;194.4;319.2;10.99
+Spaghetti al pesto;0;379;23.2
+Tostadas con mantequilla;108;131;7.6
+Trucha;208;250;15.7
+Vieira;195;338;12.48
+Vino blanco;15;82;0.1
+Vino rosado;6;75;0.1
+Vino tinto;14;93;0.23
+Whisky;5;2.8;0
+Yema de huevo de gallina;520;97;16.5
+Yogur desnatado sabor natural;109;187;4.3
+Yogur desnatado sabor natural azucarado;123;191;4.5
+Yogur desnatado sabor vainilla;132.2;146.6;5.3
+Yogur entero con fresas;75;117.3;2.7
